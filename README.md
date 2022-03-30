@@ -1,2 +1,2 @@
 # wek11_ig
-Demo of GitHub Actions
+## Demo of GitHub Actions
